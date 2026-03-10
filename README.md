@@ -1,8 +1,11 @@
 # Student Registration System
 
-![Student Registration System](screenshots/registration-form.png)
+![License](https://img.shields.io/github/license/NasDyan/student-registration)
 
 A full-stack web application for managing student registrations, built with PHP, MySQL, HTML, CSS, and JavaScript. This project demonstrates secure form handling, database integration, and responsive design.
+
+![Student Registration System](screenshots/registration-form.png)
+
 
 ## Table of Contents
 - [Features](#features)
@@ -135,5 +138,7 @@ This project strengthened my confidence in building real-world applications and 
 
 I'm actively seeking **Junior Software Developer**, **Software Engineer**, or **Application Developer** opportunities in **Cape Town**, **Gauteng**, or **Remote**. If you're hiring or know someone who is, I'd love to connect!
 
+## License
 
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
