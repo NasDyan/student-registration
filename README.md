@@ -14,7 +14,6 @@ A full-stack web application for managing student registrations, built with PHP,
 - [Installation](#installation)
 - [How to Use](#how-to-use)
 - [What I Learned](#what-i-learned)
-- [Future Improvements](#future-improvements)
 - [Contact](#contact)
 - [License](#license)
 
